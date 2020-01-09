@@ -27,9 +27,6 @@ Contributions, issues and feature requests are welcome.<br />
     <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/github/followers/lukeshirleyx?style=social" target="_blank" align="center" />
   </a>
 
-
-https://img.shields.io/github/followers/lukeshirleyx?style=social
-
 #### Mena Bahram - Sr. Quantitative Analyst
 
 #### Kapil Rampali - Quantitative Analyst
