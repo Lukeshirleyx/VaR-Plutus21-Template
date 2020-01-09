@@ -10,12 +10,6 @@
 
 Value at risk (VaR) is a statistic that measures and quantifies the level of financial risk within a firm, portfolio or position over a specific time frame with a given level of confidence. `VaR-Plutus21-Template` is Value at Risk template for you to build your own portfolio. Find out more about our fund, <a href="https://www.plutus21.com/">Plutus21 Capital</a>.
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome.<br />
-[Check the contributing guide](Contributing.md).<br />
-
-
 <h1><img src="Images/Logo_Plutus21.png" width="160" align="center"> Quant Team</h1>
 
 <h4><img src="Images/Luke.png" alt="Avatar" align="center" width="60"> Luke Shirley - Sr. Quantitative Analyst</h4>
@@ -41,6 +35,10 @@ Contributions, issues and feature requests are welcome.<br />
 
 <h4><img src="Images/Alexis.png" alt="Avatar" align="center" width="60"> Alexis Cisneros - Quantitative Analyst</h4>
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome.<br />
+[Check the contributing guide](Contributing.md).<br />
 
 ## 📝 License
 
