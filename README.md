@@ -23,7 +23,7 @@ Contributions, issues and feature requests are welcome.<br />
 - Twitter:<a href="https://twitter.com/lukeshirleyx">
     <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" align="center" />
   </a>
-- Github:<a href="https://github.com/Lukeshirleyx">
+- GitHub:<a href="https://github.com/Lukeshirleyx">
     <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/github/followers/lukeshirleyx?style=social" target="_blank" align="center" />
   </a>
 
