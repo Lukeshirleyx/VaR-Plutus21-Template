@@ -20,7 +20,6 @@ Contributions, issues and feature requests are welcome.<br />
 
 <h4><img src="Images/Luke.png" alt="Avatar" align="center" width="60"> Luke Shirley - Sr. Quantitative Analyst</h4>
 
-#### Luke Shirley - Sr. Quantitative Analyst
 - Twitter: [@Lukeshirleyx](https://twitter.com/Lukeshirleyx)<a href="https://twitter.com/lukeshirleyx">
     <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" align="center" />
   </a>
