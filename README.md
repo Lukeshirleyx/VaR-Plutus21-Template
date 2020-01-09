@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Value at risk is a measure of the risk of loss for investments. It estimates how much a set of investments might lose, given normal market conditions, in a set time period with a given level of confidence. `VaR-Plutus21-Template` is Value at Risk template for you to build your own portfolio. Find out more about our fund, <a href="https://www.plutus21.com/">Plutus21 Capital</a>.
+Value at risk (VaR) is a statistic that measures and quantifies the level of financial risk within a firm, portfolio or position over a specific time frame with a given level of confidence. `VaR-Plutus21-Template` is Value at Risk template for you to build your own portfolio. Find out more about our fund, <a href="https://www.plutus21.com/">Plutus21 Capital</a>.
 
 ## 🤝 Contributing
 
@@ -39,7 +39,7 @@ Contributions, issues and feature requests are welcome.<br />
     <img alt="GitHub: KapilRampalli" src="https://img.shields.io/github/followers/KapilRampalli?style=social" target="_blank" align="center" />
   </a>
 
-<h4><img src="Images/Alexis.png" alt="Avatar" align="center" width="60"> Luke Shirley - Sr. Quantitative Analyst</h4>
+<h4><img src="Images/Alexis.png" alt="Avatar" align="center" width="60"> Alexis Cisneros - Quantitative Analyst</h4>
 
 
 ## 📝 License
