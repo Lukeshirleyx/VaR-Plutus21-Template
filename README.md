@@ -1,6 +1,7 @@
 <h1 align="center">Value at Risk <img src="Images/VaR.png" width="60" align="center"></h1>
-<p align="center">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
+<p align="center">  
+    <img alt="License: MIT" src="https://img.shields.io/pypi/pyversions/pandas" target="_blank" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-green.svg" target="_blank" />
   </a>
   <a href="https://twitter.com/plutus21cap">
     <img alt="Twitter: plutus21cap" src="https://img.shields.io/twitter/follow/plutus21cap.svg?style=social" target="_blank" />
