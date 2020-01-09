@@ -13,7 +13,7 @@ Value at risk (VaR) is a statistic that measures and quantifies the level of fin
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome.<br />
-[Check the contributing guide](./CONTRIBUTING.md).<br />
+[Check the contributing guide](Contributing.md).<br />
 
 
 <h1><img src="Images/Logo_Plutus21.png" width="160" align="center"> Quant Team</h1>
