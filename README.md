@@ -14,9 +14,8 @@
 Contributions, issues and feature requests are welcome.<br />
 [Check the contributing guide](./CONTRIBUTING.md).<br />
 
-<img src="Images/Logo_Plutus21.png" width="100">
 
-## Quant Team
+<h1><img src="Images/Logo_Plutus21.png" width="100"> Quant Team</h1>
 
 - Twitter: [@Lukeshirleyx](https://twitter.com/Lukeshirleyx)<a href="https://twitter.com/lukeshirleyx">
     <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" />
