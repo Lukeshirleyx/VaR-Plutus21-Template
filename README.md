@@ -20,10 +20,15 @@ Contributions, issues and feature requests are welcome.<br />
 
 <h4><img src="Images/Luke.png" alt="Avatar" align="center" width="60"> Luke Shirley - Sr. Quantitative Analyst</h4>
 
-- Twitter: [@Lukeshirleyx](https://twitter.com/Lukeshirleyx)<a href="https://twitter.com/lukeshirleyx">
+- Twitter:<a href="https://twitter.com/lukeshirleyx">
     <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" align="center" />
   </a>
-- Github: [@Lukeshirleyx](https://github.com/Lukeshirleyx)
+- Github:<a href="https://github.com/Lukeshirleyx">
+    <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/github/followers/lukeshirleyx?style=social" target="_blank" align="center" />
+  </a>
+
+
+https://img.shields.io/github/followers/lukeshirleyx?style=social
 
 #### Mena Bahram - Sr. Quantitative Analyst
 
