@@ -1,4 +1,4 @@
-<h1 align="center">Value at Risk <img src="Images/VaR.png" width="65" align="center"></h1>
+<h1 align="center">Value at Risk <img src="Images/VaR.png" width="60" align="center"></h1>
 <p align="center">
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
   </a>
@@ -17,11 +17,17 @@ Contributions, issues and feature requests are welcome.<br />
 
 <h1><img src="Images/Logo_Plutus21.png" width="160" align="center"> Quant Team</h1>
 
+#### Luke Shirley - Sr. Quantitative Analyst
 - Twitter: [@Lukeshirleyx](https://twitter.com/Lukeshirleyx)<a href="https://twitter.com/lukeshirleyx">
-    <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" />
+    <img alt="Twitter: lukeshirleyx" src="https://img.shields.io/twitter/follow/lukeshirleyx.svg?style=social" target="_blank" align="center" />
   </a>
 - Github: [@Lukeshirleyx](https://github.com/Lukeshirleyx)
 
+#### Mena Bahram - Sr. Quantitative Analyst
+
+#### Kapil Rampali - Quantitative Analyst
+
+#### Alexis Cisernos - Quantitative Analyst
 
 ## 📝 License
 
