@@ -39,7 +39,7 @@ Contributions, issues and feature requests are welcome.<br />
     <img alt="GitHub: KapilRampalli" src="https://img.shields.io/github/followers/KapilRampalli?style=social" target="_blank" align="center" />
   </a>
 
-<h4><img src="Images/Alexis.png" alt="Avatar" align="center" width="60"> Luke Shirley - Sr. Quantitative Analyst</h4>
+<h4><img src="Images/Alexis.png" alt="Avatar" align="center" width="60"> Alexis Cisneros - Quantitative Analyst</h4>
 
 
 ## 📝 License
