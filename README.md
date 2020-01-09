@@ -18,7 +18,7 @@ Contributions, issues and feature requests are welcome.<br />
 
 <h1><img src="Images/Logo_Plutus21.png" width="160" align="center"> Quant Team</h1>
 
-<h4><img src="Images/Luke.png" alt="Avatar" border-radius="50%"> Luke Shirley - Sr. Quantitative Analyst</h4>
+<h4><img src="Images/Luke.png" alt="Avatar" style="border-radius: 50%"> Luke Shirley - Sr. Quantitative Analyst</h4>
 
 #### Luke Shirley - Sr. Quantitative Analyst
 - Twitter: [@Lukeshirleyx](https://twitter.com/Lukeshirleyx)<a href="https://twitter.com/lukeshirleyx">
