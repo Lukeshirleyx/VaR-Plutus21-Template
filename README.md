@@ -1,5 +1,6 @@
 <h1 align="center">Value at Risk <img src="Images/VaR.png" width="60" align="center"></h1>
 <p align="center">  
+    <img alt="progress" src="https://img.shields.io/badge/Model-Functional-brightgreen" target="_blank" />
     <img alt="License: MIT" src="https://img.shields.io/pypi/pyversions/pandas" target="_blank" />
     <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-brightgreen.svg" target="_blank" />
   </a>
